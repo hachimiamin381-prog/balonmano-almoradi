@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36 98 462 252" width="462" height="252" role="img" aria-label="Icono Club Balonmano Almoradí">
+  <!-- Portería: arco rojo con bandas blancas -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 272 L52 176 Q52 122 106 119 L418 119 L480 226" stroke="#ffffff" stroke-width="30"/>
+    <path d="M52 272 L52 176 Q52 122 106 119 L418 119 L480 226" stroke="#c8102e" stroke-width="17"/>
+    <path d="M52 272 L52 176 Q52 122 106 119 L418 119 L480 226" stroke="#ffffff" stroke-width="17" stroke-dasharray="17 21"/>
+  </g>
+
+  <!-- Jugador: silueta roja con contorno blanco -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#ffffff" stroke-width="34">
+      <path d="M232 196 Q234 224 236 252"/>
+      <path d="M232 197 Q206 176 198 166"/>
+      <path d="M224 199 Q254 190 272 202 Q286 212 272 224"/>
+      <path d="M236 252 Q260 278 288 298"/>
+      <path d="M230 246 Q198 292 162 332"/>
+      <ellipse cx="226" cy="176" rx="24" ry="24"/>
+    </g>
+    <g stroke="#c8102e" stroke-width="20">
+      <path d="M232 196 Q234 224 236 252"/>
+      <path d="M232 197 Q206 176 198 166"/>
+      <path d="M224 199 Q254 190 272 202 Q286 212 272 224"/>
+      <path d="M236 252 Q260 278 288 298"/>
+      <path d="M230 246 Q198 292 162 332"/>
+      <ellipse cx="226" cy="176" rx="17" ry="17" fill="#c8102e" stroke="none"/>
+    </g>
+  </g>
+
+  <!-- Balón azul en la mano -->
+  <g>
+    <circle cx="192" cy="150" r="26" fill="#14265f" stroke="#ffffff" stroke-width="5"/>
+    <g stroke="#3a56b0" stroke-width="3" fill="none" stroke-linecap="round">
+      <path d="M170 141 Q192 152 214 141"/>
+      <path d="M170 159 Q192 148 214 159"/>
+      <path d="M192 124 Q186 150 192 176"/>
+    </g>
+  </g>
+</svg>
